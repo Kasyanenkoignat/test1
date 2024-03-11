@@ -1,0 +1,6 @@
+int main() {
+    cout << "консольний проект" << endl;
+
+
+    return 0;
+}
